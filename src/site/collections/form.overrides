@@ -1,0 +1,11 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.form {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.ui.form textarea {
+   font-family: inherit;
+}

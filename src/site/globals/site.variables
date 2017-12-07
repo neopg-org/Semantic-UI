@@ -1,0 +1,20 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+
+@headerFont        : 'PT Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+// @pageFont          : 'Lora', serif;
+@pageFont          : 'PT Serif', serif;
+@fontSmoothing     : antialiased;
+
+@importGoogleFonts : false;
+@googleFontRequest  : 'Lora:400,700,400italic,700italic|PT Sans:400,700,400italic,700italic|Cousine:400,700,400italic,700italic&subset=latin';
+
+@primaryColor        : #d95a16;
+@secondaryColor      : #223344;
+
+@pageBackground      : #eff4f2;
+
+@invertedLightTextColor : rgba(255, 255, 255, 0.8);
+@invertedUnselectedTextColor: rgba(255, 255, 255, 0.7);

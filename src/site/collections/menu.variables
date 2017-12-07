@@ -1,0 +1,8 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@fontFamily: 'PT Sans', sans-serif;
+
+@secondaryInvertedBackground: @background;
+@invertedBackground: @secondaryColor;
